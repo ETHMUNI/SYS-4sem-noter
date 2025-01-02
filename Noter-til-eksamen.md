@@ -14,3 +14,6 @@
 ## Robusthedsdiagram
 
 ## Dare Share Care
+
+
+mål, kontekst, kilder og forventninger
