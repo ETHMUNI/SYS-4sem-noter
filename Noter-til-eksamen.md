@@ -8,3 +8,9 @@
 ## SCRUM
 
 ## AGILE
+
+## Estimering - Outsourcing - Plan
+
+## Robusthedsdiagram
+
+## Dare Share Care
