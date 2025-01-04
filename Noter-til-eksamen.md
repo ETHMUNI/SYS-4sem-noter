@@ -179,6 +179,61 @@ XP indeholder specifikke praksisser, som fungerer sammen og forstærker hinanden
 
 ## AGILE
 
+### De 12 Principper bag Agile Manifesto
+
+**Agile Manifesto definerer de centrale værdier i agil softwareudvikling og prioriterer dem på følgende måde:**
+
+**1. Individer og interaktioner frem for processer og værktøjer:**
+* Fokus på samarbejde og kommunikation mellem teammedlemmer, fremfor at lade processer eller værktøjer diktere arbejdet.
+
+**2. Arbejdende software frem for omfattende dokumentation:**
+* Levering af funktionel software har højere prioritet end at producere omfattende dokumentation, der ofte bliver forældet.
+
+**3. Kundesamarbejde frem for kontraktforhandling:**
+* Samarbejde med kunden for at forstå deres behov, i stedet for blot at følge kontraktuelle forpligtelser.
+
+**4. Reageren på ændringer frem for at følge en plan:**
+* Agil udvikling omfavner ændringer, selv sent i udviklingsprocessen, for at sikre, at software opfylder aktuelle behov.
+
+**NOTE:** Disse værdier betyder ikke, at elementerne til højre (processer, dokumentation, kontrakter og planer) er uvigtige, men de vægtes mindre end dem til venstre.
+### 
+**1. Tidlig og kontinuerlig levering:**
+* Kunden skal tilfredsstilles gennem tidlig og løbende levering af værdifuld software.
+
+**2. Velkommen ændringer:**
+* Selv sent i udviklingsprocessen skal ændringer i krav omfavnes for at give kunden en konkurrencefordel.
+
+**3. Hyppige leverancer:**
+* Software skal leveres ofte, ideelt set med iterationer på et par uger til et par måneder.
+
+**4. Samarbejde mellem forretning og udvikling:**
+* Forretningsfolk og udviklere skal arbejde tæt sammen dagligt.
+
+**5. Motiverede individer:**
+* Projekter skal bygges omkring personer, der har de nødvendige ressourcer og støtte, samt tillid til at løse opgaven.
+
+**6. Ansigt-til-ansigt-kommunikation:**
+* Direkte samtale er den mest effektive måde at kommunikere på i et udviklingsteam.
+
+**7. Arbejdende software som målestok:**
+* Fremgang måles primært ud fra, om softwaren fungerer som forventet.
+
+**8. Bæredygtig udvikling:**
+* Udviklingshastigheden skal kunne opretholdes konstant over tid.
+
+**9. Teknisk ekspertise og god design:**
+* Vedvarende fokus på teknisk kvalitet og design fremmer agilitet.
+
+**10. Enkelhed:**
+* Fokuser på at minimere mængden af arbejde, der ikke er nødvendigt.
+
+**11. Selvorganiserende teams:**
+* De bedste løsninger og designs opstår fra selvorganiserende teams.
+
+**12. Løbende refleksion og tilpasning:**
+* Teamet skal regelmæssigt reflektere over deres processer og justere dem for at blive mere effektive.
+
+
 ## Estimering - Outsourcing - Plan
 
 ## Robusthedsdiagram
