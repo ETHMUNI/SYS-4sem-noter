@@ -196,7 +196,7 @@ XP indeholder specifikke praksisser, som fungerer sammen og forstærker hinanden
 * Agil udvikling omfavner ændringer, selv sent i udviklingsprocessen, for at sikre, at software opfylder aktuelle behov.
 
 **NOTE:** Disse værdier betyder ikke, at elementerne til højre (processer, dokumentation, kontrakter og planer) er uvigtige, men de vægtes mindre end dem til venstre.
-### 
+##
 **1. Tidlig og kontinuerlig levering:**
 * Kunden skal tilfredsstilles gennem tidlig og løbende levering af værdifuld software.
 
