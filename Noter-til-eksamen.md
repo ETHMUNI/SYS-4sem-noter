@@ -173,6 +173,58 @@ XP indeholder specifikke praksisser, som fungerer sammen og forstærker hinanden
 
 ## BDD
 
+Behaviour Driven Development (BDD) er en softwareudviklingsmetode, der bygger videre på principperne fra Test Driven Development (TDD). Målet med BDD er at sikre, at udviklingen fokuserer på den adfærd, som brugerne forventer, ved at bruge fælles sprog og samarbejde mellem udviklere, testere og interessenter.
+
+**Metoder i BDD**
+BDD bruger følgende metoder og værktøjer til at definere og teste krav:
+
+* User Stories:
+ * Hver funktionalitet beskrives som en User Story:
+ * "Som [rolle] vil jeg [handling], så jeg kan [mål]."
+
+* Gherkin-sprog:
+ * Et formelt men letforståeligt sprog til at skrive accepttests. Det bruger nøgleord som:
+ * Feature: Overordnet beskrivelse af, hvad der skal laves.
+ * Scenario: Et specifikt tilfælde af, hvordan systemet skal opføre sig.
+ * Given: Forudsætninger (hvad der er sandt i starten).
+ * When: Handlinger eller begivenheder.
+ * Then: Forventede resultater.
+
+* Automatisering af tests:
+ * Værktøjer som Cucumber og SpecFlow bruges til at køre disse scenarier automatisk og validere adfærden.
+
+### Processer i BDD
+
+* Fra User Story til Accepttest:
+ * Start med at beskrive, hvad brugeren vil opnå.
+ * Brug Gherkin-scenarier til at beskrive adfærden.
+ * Opret automatiserede tests for at validere adfærden.
+
+* Samarbejde:
+ * BDD kræver, at udviklere, testere og interessenter arbejder tæt sammen for at definere krav og prioritere funktionalitet.
+
+* Iterativ tilgang:
+ * Byg systemet i små iterationer, hvor adfærden evalueres og forbedres løbende.
+
+* Test First-princip:
+ * Tests skrives før selve funktionaliteten implementeres, hvilket sikrer, at kravene forstås korrekt fra starten.
+
+### Vigtige begreber
+**Feature:**
+* En overordnet beskrivelse af en funktion, fx "Tilføj vare til indkøbskurv."
+
+**Scenario:**
+* En konkret måde, hvorpå funktionen skal opføre sig i en given situation.
+
+**Acceptance Criteria:**
+* Specifikke krav, der skal opfyldes, for at en User Story kan accepteres.
+
+**Gherkin-sprog:**
+* Struktureret sprog til at skrive tests, der er letforståeligt for både tekniske og ikke-tekniske interessenter.
+
+**Automatiserede accepttests:**
+* Tests, der validerer systemets adfærd mod definerede kriterier, ofte kørt gennem værktøjer som Cucumber.
+
 ## TDD
 
 TDD er en softwareudviklingspraksis, hvor test skrives før selve koden. Det handler om at sikre, at hver del af koden opfylder en defineret funktion, og at funktionaliteten testes automatisk gennem hele udviklingscyklussen.
@@ -335,11 +387,16 @@ En Spike er en særlig type user story i agile rammer, der bruges til at reducer
 * Undgåelse af overlap: Planlæg Spikes separat fra deres afledte historier for at mindske risiko.
 * Risikoreduktion: Spikes bruges til tidligt at håndtere usikkerheder i projektet.
 
-## Estimering - Outsourcing - Plan
-
-## Robusthedsdiagram
-
 ## Dare Share Care
 
+**Dare – Være modig og udfordre sig selv:**
+* Tør tage nye opgaver og udfordringer op.
+* Være åben overfor at lære nye færdigheder og arbejde uden for sin komfortzone.
 
-mål, kontekst, kilder og forventninger
+**Share – Dele viden og erfaringer:**
+* Aktivt dele ideer, viden og erfaringer med kolleger eller i praktikmiljøet.
+* Bidrage til fælles forståelse og udvikling.
+
+**Care – Vise omsorg og respekt:**
+* Udvise empati og respekt for andres idéer, meninger og behov.
+* Fokusere på godt samarbejde og støtte hinandens udvikling.
