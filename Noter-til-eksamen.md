@@ -175,6 +175,28 @@ XP indeholder specifikke praksisser, som fungerer sammen og forstærker hinanden
 
 ## TDD
 
+TDD er en softwareudviklingspraksis, hvor test skrives før selve koden. Det handler om at sikre, at hver del af koden opfylder en defineret funktion, og at funktionaliteten testes automatisk gennem hele udviklingscyklussen.
+
+### De tre faser i TDD:
+**Red:**
+* Skriv en test, der beskriver den ønskede funktionalitet.
+* Testen fejler, fordi den nødvendige funktionalitet endnu ikke er implementeret.
+* Dette trin sikrer, at der er et klart mål for den kode, du skal skrive.
+
+**Green:**
+
+* Implementér den mest enkle løsning for at få testen til at bestå.
+* Målet her er ikke perfekt design, men funktionalitet, der opfylder kravene i testen.
+
+**Refactor:**
+* Forbedr koden uden at ændre dens funktionalitet.
+* Fjern redundans, forbedr læsbarheden, og optimer koden for at sikre, at systemet forbliver vedligeholdeligt.
+
+### Vigtige Begreber
+* Refactoring: Konstant forbedring af kode for at undgå teknisk gæld.
+* Kontinuerlig integration: Sikrer, at ny kode fungerer sammen med eksisterende kodebase.
+
+
 ## SCRUM
 
 ## AGILE
@@ -233,6 +255,29 @@ XP indeholder specifikke praksisser, som fungerer sammen og forstærker hinanden
 **12. Løbende refleksion og tilpasning:**
 * Teamet skal regelmæssigt reflektere over deres processer og justere dem for at blive mere effektive.
 
+## Spikes
+En Spike er en særlig type user story i agile rammer, der bruges til at reducere usikkerheder og risiko. Spikes hjælper med at:
+
+* Afdække ukendte elementer (tekniske eller funktionelle).
+* Gøre user stories lettere at estimere og implementere.
+* Forberede teamet på komplekse udfordringer.
+
+**Der findes to typer Spikes:**
+
+**1. Tekniske Spikes:** Undersøger tekniske løsninger (fx "build vs. buy", ydeevne eller teknologivalg).
+**2. Funktionelle Spikes:** Undersøger, hvordan brugere interagerer med systemet (fx prototyper, UI-design).
+
+### Sådan bruges Spikes
+* I backloggen: De prioriteres som user stories og afsluttes i en iteration.
+* Resultater: Spikes fører til beslutninger, prototyper eller analyser, ikke nødvendigvis færdig kode.
+* Retningslinjer: Brug Spikes til store usikkerheder og undgå at blande dem med deres relaterede user stories i samme iteration.
+
+### Vigtige begreber
+* Teknisk Spike: Bruges til at evaluere tekniske aspekter af en løsning.
+* Funktionel Spike: Bruges til at undersøge brugeroplevelser eller funktionelle krav.
+* Demonstrerbare resultater: Resultatet af en Spike skal være synligt og brugbart for teamet (fx en prototype eller analyse).
+* Undgåelse af overlap: Planlæg Spikes separat fra deres afledte historier for at mindske risiko.
+* Risikoreduktion: Spikes bruges til tidligt at håndtere usikkerheder i projektet.
 
 ## Estimering - Outsourcing - Plan
 
