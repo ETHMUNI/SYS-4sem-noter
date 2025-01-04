@@ -198,6 +198,62 @@ TDD er en softwareudviklingspraksis, hvor test skrives før selve koden. Det han
 
 
 ## SCRUM
+Scrum er en agil metode, der fokuserer på iterative og inkrementelle udviklingscyklusser, kaldet sprints. Centrale elementer inkluderer:
+
+**Product Backlog:**
+* En prioriteret liste over funktionaliteter og krav, som kunden ønsker.
+* Indeholder både detaljerede og grove beskrivelser afhængigt af, hvor tæt de er på at blive implementeret.
+* Vedligeholdes af Product Owner og ændres løbende for at reflektere ny viden.
+
+**Sprint Backlog:**
+* En liste over opgaver, der skal udføres i en specifik sprint.
+* Detaljeres under sprintplanlægning og opdateres dagligt.
+
+**Burndown Chart:**
+* Grafen viser hver dag et nyt estimat af, hvor meget arbejde der mangler, indtil teamet er færdigt.
+
+**User Stories:**
+* Korte beskrivelser af funktionalitet set fra brugerens perspektiv, ofte skrevet som:
+* "Som [rolle] vil jeg [handling], så jeg kan [mål]."
+
+### Roller i Scrum
+
+**Product Owner:**
+* Repræsenterer kundens interesser og maksimerer produktets værdi.
+* Ansvarlig for:
+  * Oprettelse og prioritering af Product Backlog.
+  * Sikring af, at teamet forstår kravene.
+  
+**Scrum Master:**
+* Scrum Master er en hjælper, der sørger for, at Scrum kører som det skal.
+* Opgaverne er:
+  * Hjælpe teamet med at løse problemer.
+  * Lære teamet at arbejde på en agil måde.
+
+**Development Team:**
+* Selvorganiserende og ansvarlige for at levere de aftalte User Stories.
+* Vælger selv opgaver og samarbejder tæt for at opfylde sprintmålet.
+
+### Vigtige Begreber
+**Definition of Done (DoD):**
+* En aftalt standard, der definerer, hvornår en User Story eller opgave er færdig.
+
+**Team Velocity:**
+* Et mål for, hvor mange User Stories teamet kan færdiggøre i en sprint. Bruges til planlægning.
+
+**INVEST-kriterier for User Stories:**
+* Independent: Kan udvikles uafhængigt.
+* Negotiable: Placeholder for dialog.
+* Valuable: Skaber værdi for kunden.
+* Estimable: Kan estimeres.
+* Small: Kan færdiggøres i en sprint.
+* Testable: Skal kunne testes.
+
+**Relative Sizing:**
+* Estimering af User Stories baseret på relativ størrelse (S, M, L, XL).
+
+**Planning Poker:**
+* En metode til estimering, hvor teammedlemmer vælger estimater anonymt og diskuterer forskelle for at nå konsensus.
 
 ## AGILE
 
