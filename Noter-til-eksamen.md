@@ -58,7 +58,7 @@
 * **Iterativ tilgang:** UP lægger vægt på gradvis forbedring af systemet gennem gentagelser. Dette reducerer risikoen for store fejl og sikrer løbende feedback.
 
 ### Use Cases i UP
-U* se cases er centrale i UP til kravhåndtering og design. De beskriver, hvordan brugere (aktører) interagerer med systemet for at opnå deres mål.
+Use cases er centrale i UP til kravhåndtering og design. De beskriver, hvordan brugere (aktører) interagerer med systemet for at opnå deres mål.
 
 **Fordele ved use cases:**
 
