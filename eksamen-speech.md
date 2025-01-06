@@ -35,4 +35,4 @@ Gjordt bedre:
 
 ## Slide 5 - Dare Share Care
 
-## Slide 6 - Konklusion / personlig læring
+## Slide 6 - Risiko Analysen????
