@@ -4,12 +4,25 @@
 
 I vores projekt valgte vi at arbejde med det agile paradigme, specifikt Scrum, som er kendt for sin fleksibilitet og fokus på hurtige iterationer. Denne tilgang tillod os at arbejde iterativt, hvor vi gentagne gange kunne forbedre systemet baseret på den feedback, vi løbende modtog. Ved at anvende korte, iterative udviklingscyklusser kunne vi levere en Minimum Viable Product (MVP) tidligt og gradvist bygge videre på den.
 
-I løbet af projektet arbejdede vi med en række artefakter. Udover Sprint-, planning, daily stand-ups, retrospektive, TDD, BDD osv, så inkluderede vi også ER-diagram, Burndown Chart, som gav os et overblik over fremdriften; og vores Backlog, som prioriterede de opgaver, vi skulle løse. Yderligere benyttede vi os af Kanban, som visualiserede arbejdsgangen, og vores Definition of Done (DOD), der sikrede, at vi kun afsluttede opgaver, når de opfyldte alle krav.
+I løbet af projektet arbejdede vi med en række artefakter og cermonier som Sprint-, planning, daily stand-ups, retrospektive, så inkluderede vi også ER-diagram, Burndown Chart, som gav os et overblik over fremdriften; og vores Backlog, som prioriterede de opgaver, vi skulle løse. Yderligere benyttede vi os af Kanban, som visualiserede arbejdsgangen, og vores Definition of Done (DOD), der sikrede, at vi kun afsluttede opgaver, når de opfyldte alle krav.
 
 ## Slide 2 - Opbyning af Scrum/Agile
 
 * Team Velocity
 * T shirt sizing - Brugte vi på vores tasks og study points på user stories
+
+## Slide 3 - INVEST i stedet for WBS
+
+* I sprint 1 forslog jeg at bruge artefakten WBS fra Waterfall paradgimet. Her anerkender jeg også at WBS kan kollidere med agiliteten i Scrum, og vi vender os over på Wagile i stedet. Efter yderlige refleksion kunne en mere agil tilgang være at avende INVEST principperne for vores nedbrydning af tasks. Her ved jeg godt at traditionelt bruges invest til user stories.
+* Ved at bruge independent til at gøre tasks uafhæninge af hinanaden
+* negotiable så tasks ikke er stramt defineret
+* Valuable, så task skal klart bidrage til user storiens værdi
+* Estimable, hver task ville være lettere at estimere.
+* Small: sikre os at være task er lille nok til at blive færdig i et sprint
+* Testable, klare kriterier, ved evt. af Definition of Done.
+
+* en andet værktøj vi kunne have brugt til vores tasks var at anvende Gherkin syntask til vores tasks. Med Gherkin er simpel syntask og her kunne vi har en klar defination og ville have sin egen definition of done til hver task samt fremmet testbarheden med BDD. Så vidt som jeg husker havde backend det svært med BDD fordi at dette ikke var defineret. Det hjælper også med det iteraktive, hvis nu brugerbehov eller forretningsbehovet ændre så, kan nye scenarier nemt justeres.
+
 
 ## Slide 3 - Agile Manifesto - Indel hvilke principper som vi gjorde godt og hvilke vi kunne have gjordt bedre?
 
@@ -35,4 +48,12 @@ Gjordt bedre:
 
 ## Slide 5 - Dare Share Care
 
+## Slide - Modeller(Artefaktor)
+
 ## Slide 6 - Risiko Analysen????
+
+## Sidste Slide - Små fejl i refleksion dokumentet
+
+* I starten af mit refleksion dokument, havde jeg skrevet stand-ups, sprint planning, og sprint retrospektive. Dette er selvfølgelig cermonier og ikke artefakter
+
+* I sprint 2 havde jeg skrevet at vores valg af cypress var et functional spike i stedet for technical. Dette selvfølgelig forkert. et technical spike er f.eks. et valg af noget teknologi og er f.eks. noget med hvordan brugere interagerer med systemet.
