@@ -32,13 +32,10 @@
 
 Godt:
 * 5. Motiverede individer - Alle som påtog sig en opgave havde vi tillid til at de kunne løse opgaven
-* 9. Teknisk ekspertise og god design - Vi havde et vedvarende fokus på et opgradet design, vores figma ligner ikke 1-til-1 med vores produkt. Dog dokumenterede vi ikke andre design valg i figma
 * 10. Enkelhed - Vi gik ikke ud over rammerne ved at lave ekstra features etc.
-* 11. Selvorganiserende teams - Vi organisereret selv vores arbejde, her var PO og Scrum master god til at forstå deres roller.
 * 12. Løbende refleksion og tilpasning - Ved hjælp af scrum retrospektive var vi gode til at tilpasse os/lave ændringer når noget ikke fungeret godt.
 
 Gjordt bedre: 
-* 1. Tidlig og kontinuerlig levering - Vi havde lidt svært med at komme ordenlig i gang pga problemer, svært ved at nedbryde user stories til tasks korrekt.  
 * 6. Ansigt til Ansigt kommunikation - Halvdelen af tiden blev der ikke mødt op til ansigt til ansigt møder(daily stand ups). Dette resulterede i at vi holdt daily stand ups online om torsdagen. Dette blev ikke bedre af den grund
 * 8 Bæredytigt udvikling - Udviklingshastigheden blev ikke holdt så konstant pga. udforudsete hændelser
 
